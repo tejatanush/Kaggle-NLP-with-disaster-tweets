@@ -38,7 +38,7 @@ Competition--> https://www.kaggle.com/competitions/nlp-getting-started
 Pandas  
 Numpy  
 Matplotlib  
-sci-kit learn 
+sci-kit learn                                                                                                                                                                                                               
 Pytorch
 Transformers
 ## Programmes  
