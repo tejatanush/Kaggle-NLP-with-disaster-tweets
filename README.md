@@ -32,6 +32,7 @@ I used a compiler GPU provided in google colab while running this project.
 ### This model got f2_score of 0.82562.
 ## References  
 Datasets-->  https://www.kaggle.com/competitions/nlp-getting-started/data
+
 Competition--> https://www.kaggle.com/competitions/nlp-getting-started
 ## Requirements  
 Pandas  
