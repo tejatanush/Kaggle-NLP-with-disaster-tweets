@@ -39,7 +39,7 @@ Pandas
 Numpy  
 Matplotlib  
 sci-kit learn                                                                                                                                                                                                               
-Pytorch
+Pytorch                                                                                                                                                                                                                     
 Transformers
 ## Programmes  
 Python  
